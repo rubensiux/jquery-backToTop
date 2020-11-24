@@ -1,0 +1,23 @@
+{
+  "name": "jquery-backtotop",
+  "version": "1.0.0",
+  "description": "Fully customizable jQuery back to top button.",
+  "main": "jquery-backToTop.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubensiux/jquery-backToTop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@rubensiux" },
+  "bugs": {
+    "url": "https://github.com/rubensiux/jquery-backToTop/issues"
+  },
+  "homepage": "https://github.com/rubensiux/jquery-backToTop#readme"
+}
